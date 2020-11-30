@@ -12,6 +12,7 @@ You can see the preview screenshots [here.](https://www.renanhiramatsu.com/#3)
 Requisites: React Native / Expo / 
 1. Clone this repository.
 2. ( coming soon )
+![Test Image 3](https://drive.google.com/file/d/184tg_axrrl4AC3xeD56-FuAy8FDhhY_J/view?usp=sharing)
 # 🔥 What I Used
 Concepts and Tools:
 - 
