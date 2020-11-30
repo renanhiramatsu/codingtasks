@@ -10,6 +10,7 @@ You can see the preview screenshots [here.](https://www.renanhiramatsu.com/#3)
 
 # 🔧 Running the project
 Requisites: Expo APP
+
 ![](https://i.imgur.com/tTbf6om.png)
 # 🔥 What I Used
 Concepts and Tools:
