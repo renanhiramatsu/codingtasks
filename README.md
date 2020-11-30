@@ -9,14 +9,14 @@ You can see the preview screenshots [here.](https://www.renanhiramatsu.com/#3)
 - Add new components for other tasks
 
 # 🔧 Running the project
-Requisites: React Native / Expo / 
-1. Clone this repository.
-2. ( coming soon )
-![Test Image 3](https://drive.google.com/file/d/184tg_axrrl4AC3xeD56-FuAy8FDhhY_J/view?usp=sharing)
+Requisites: Expo APP
+![](https://i.imgur.com/tTbf6om.png)
 # 🔥 What I Used
 Concepts and Tools:
-- 
-- 
+- Javascript (React Native)
+- Expo Publisher
+- Libraries: styled-components, react-navigation
+
 
 
 # 👨 Contributors
